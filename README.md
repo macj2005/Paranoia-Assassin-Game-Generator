@@ -1,0 +1,4 @@
+-Provide a csv file with all of the players/player info
+-link the ifstream to the file so the program can read it
+-tweak data if necessary. I have it set to where a player cannot get a target with the same room number as them.
+-once run, a list of players will generate with an arrow pointing to their target
